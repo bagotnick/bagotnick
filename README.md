@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bagotnick
+- 👋 Hi, I’m Nick Bagot
 - 👀 Data Science
 - 🌱 Python Programming
 - 📫 How to reach me: bagotnj@gmail.com
